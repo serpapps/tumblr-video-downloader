@@ -2,20 +2,17 @@
   "id": 77,
   "created_at": "2025-01-23T00:00:00Z",
   "seo_title": "Tumblr Video Downloader - Free Content Download Tool",
-  "seo_description": "https://serp.ly/tumblr-video-downloader",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/tumblr-video-downloader",
   "purchase_url": "https://serp.ly/tumblr-video-downloader",
   "store_product_id": null,
   "name": "Tumblr Video Downloader",
-  "tagline": "https://serp.ly/tumblr-video-downloader",
-  "featured_image": "images/tumblr-video-downloader.jpg",
-  "featured_image_gif": "images/tumblr-video-downloader.gif",
+  "tagline": "Download Tumblr videos, GIFs, and photo sets from blogs",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/tumblr-video-downloader/assets/images/tumblr-video-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/tumblr-video-downloader/assets/images/tumblr-video-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/tumblr-video-downloader",
   "github_repo_tags": [
-    "tumblr-video-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "tumblr-video-downloader"
   ],
   "github_gist_url": null,
   "features": [
@@ -55,13 +52,11 @@
     "Node.js",
     "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/tumblr-video-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/tumblr-video-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/tumblr-video-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Video Downloaders",
-    "Content Tools",
-    "Automation"
+    "social media site"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,21 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/tumblr-video-downloader",
     "https://devinschumacher.com/tumblr-video-downloader",
-    "https://serp.co/products/tumblr-video-downloader/reviews/"
+    "https://serp.co/products/tumblr-video-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "tumblr-video",
-    "downloader",
-    "automation",
-    "tool",
-    "free"
+    "tumblr video downloader"
   ]
 }
